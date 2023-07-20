@@ -1,0 +1,13 @@
+-  Souza40🍫😉😉
+- 📑 Aprendendo...
+- 💻Programação...
+- ⌛ ...
+- 📫 How to reach me ...
+- Souza40/souza40
+- ![souza40GitHub stats](https://github-readme-stats.vercel.app/api?username=souza40&show_icons=true&theme=dracula)
+## tecnologia
+<div stye="display: inline_block"><br/>
+ <img align="certer" alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
+ <img align="certer" alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
+<\div><br/>
+  Encentado na Programação...💾🖱⌨💻💽
